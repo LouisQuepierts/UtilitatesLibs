@@ -1,0 +1,5 @@
+name: UtilitatesLibs
+version: '${project.version}'
+main: net.quepierts.libs.UtilitatesLibsPlugin
+api-version: 1.13
+
