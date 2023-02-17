@@ -10,9 +10,7 @@ public class UlConfiguration extends YamlConfiguration {
     }
 
     public Object getObject(String path, Object def) {
-        if (def instanceof ConfigurationSerializable) {
 
-        }
 
         return def;
     }
