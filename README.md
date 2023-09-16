@@ -1,2 +1,2 @@
 # UtilitatesLibs
-A Minecraft Server Plugin included MathFomularAnalyzer and others
+A Minecraft Server Plugin included MathFomulaAnalyzer and others
